@@ -27,21 +27,21 @@
 売り場 - うりば - selling area, section
 韓国 - かんこく - Korea
 地下 - ちか - underground
-受 - う・かる - zdać
+受かる - う・かる - zdać
 受付 - うけつけ - recepcja
 受験 - じゅけん - taking an exam
 付近 - ふきん - neighbourhood
 富士 - ふじ - Fuji
 富 - フ、と・む、とみ - riches, wealth, abundant, to be rich in
 富者 - ふしゃ - rich person, millionare, the wealthy
-初 - はじ・めて - pierwszy raz
+初めて - はじ・めて - pierwszy raz
 君 - クン、きみ - ーkun, ty
 家 - いえ、うち、カ - dom
 家族 - かぞく - rodzina
 青 - あお - niebieski, zielony
 秋 - あき - jesień
 過去 - かこ - przeszłość
-過 - す・ぎる、す・ぎ - go beyond, exceed, past, after, too much
+過ぎる - す・ぎる、す・ぎ - go beyond, exceed, past, after, too much
 過半数 - かはんすう - majority
 池 - いけ - pond
 家具 - かぐ - meble
@@ -51,7 +51,7 @@
 外科医 - げかい - chirurg
 顎 - あご - chin, jaw
 酒 - さけ - alkohol, sake
-数 - かず、かぞ・える、スウ - liczbyć, liczby
+数 - かず、かぞ・える、スウ - liczby, liczｙ
 数字 - すうじ - cyfra
 象 - ぞう - słoń, imitować
 海象 - せいうち - mors
@@ -89,7 +89,7 @@
 腰間 - ようかん - biodra
 燕 - つばめ - jaskółka
 腰赤燕 - こしあかつばめ - jaskółka modrogłowa
-合 - あ・う - fit, suit, join
+合う - あ・う - fit, suit, join
 合気道 - あいきどう - aikido
 味 - あじ - taste, flavor
 味方 - みかた - friend, ally, supporter
@@ -99,7 +99,7 @@
 歌 - うた、うた・う - piosenka, śpiewać
 腕 - うで - ramię, umiejętność
 腕時計 - うでどけい - wristwatch
-正 - ただ・しい、セイ、ショウ - correct, justice, righteous, 10^40
+正しい - ただ・しい、セイ、ショウ - correct, justice, righteous, 10^40
 正午 - しょうご - noon
 正方形 - せいほうけい - kwadrat
 正確 - せいかく - accurate, correct, precise
