@@ -129,7 +129,7 @@
 手術 - しゅじゅつ - operacja
 郵便 - ゆうびん - postal service
 郵便局 - ゆうびんきょく - post office
-大変 - たいへん -
+大変 - たいへん - very, greatly, terribly, immense, enormous, serious, grave, difficult, hard, challenging​
 変わる - かわる - to change, to be transformed, to be altered
 変える - かえる - to change, to transform, to alter
 変 - ヘン - strange, odd, peculiar, weird, curious, eccentric
@@ -178,4 +178,3 @@
 力強い - ちからづよい - powerful, strong
 力持ち - ちからもち - muscleman, stron man
 力仕事 - ちからしごと - physical work
-
