@@ -47,7 +47,7 @@
 家具 - かぐ - meble
 具 - ぐ - narzędzia
 貝 - かい - muszla
-外科 - げか - operacja
+外科 - げか - chirurgia
 外科医 - げかい - chirurg
 顎 - あご - chin, jaw
 酒 - さけ - alkohol, sake
@@ -123,3 +123,59 @@
 壁 - かべ - wall, fence
 壁紙 - かべがみ - wallpaper
 帽子 - ぼうし - kapelusz, czapka
+美しい - 美しい - beautiful
+美術館 - びじゅつかん - art gallery
+術後 - じゅつご - technical term, terminology, nomenclature
+手術 - しゅじゅつ - operacja
+郵便 - ゆうびん - postal service
+郵便局 - ゆうびんきょく - post office
+大変 - たいへん -
+変わる - かわる - to change, to be transformed, to be altered
+変える - かえる - to change, to transform, to alter
+変 - ヘン - strange, odd, peculiar, weird, curious, eccentric
+変数 - へんすう - zmienna
+変わらない - かわらない - constant, invariant
+変速 - へんそく - zmiana biegu
+変分原理 - へんぶんげんり - Variational Principle
+変分 - へんぶん - wariancja
+変光星 - へんこうせい - gwiazda zmienna
+変分学 - へんぶんがく - rachunek wariacyjny
+科学 - かがく - science
+科学者 - かがくしゃ - scientist
+学科 - がっか - subject, field of study, department
+誰 - だれ - who
+誰一人 - だれひとり - (not) anyone; (not) a single person; no one; nobody
+放っておく - ほうっておく - to leave alone; to leave as is; to ignore; to neglect​
+悲しい - かなしい - sad, miserable, grieve
+悲しむ - かなしむ - to be sad, to mourn for, to regret
+葉 - は - leaf, blade of grass
+葉書 - はがき - postcard, memo
+葉っぱ - はっぱ - leaf, blade (of grass), (pine) needle​, marijuana
+下手 - へた - bad at something
+上手 - じょうず - good at something
+狸 - たぬき - tanuki, jenot
+届く - とどく - to reach, to be delivered
+届ける - とどける - to deliver, to forward, to send
+神 - かみ - god, deity
+弓 - ゆみ - a bow
+用 - よう - business; task; errand; engagement​
+用意 - ようい - preparation; arrangements; provision; getting ready
+用事 - ようじ - business; things to do; engagement; errand; affairs​
+趣 - おもむき - meaning, gist, effect, influence, appearance, aspect, grace, charm
+趣味 - しゅみ - hobby, pastime
+趣味がいい/悪い - しゅうみがいい/わるい - in good / bad taste
+皿 - さら - dish, plate
+鰐 - わに - crocodile
+言葉 - ことば - language, dialect, word, phrase
+波蘭 - ポーランド - Polska
+韓国 - かんこく - Korea
+中国 - ちゅうごく - China
+料理 - りょうり - dish, cuisine, meal
+散る - ちる - to scatter, to fall (petals of flowers, leaves)
+散歩 - さんぽ - spacer
+散文 - さんぶん - proza
+力 - ちから - strength, force
+力強い - ちからづよい - powerful, strong
+力持ち - ちからもち - muscleman, stron man
+力仕事 - ちからしごと - physical work
+
