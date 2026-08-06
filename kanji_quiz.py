@@ -19,7 +19,7 @@ def clear_lines(n):
 
 
 
-kanji, reading, meaning = np.loadtxt('漢字.txt', dtype=str, delimiter='-', unpack=True)
+kanji, reading, meaning = np.loadtxt(plik, dtype=str, delimiter=delim, unpack=True)
 
 
 print('To exit: exit / 出る, to skip a word: skip / スキップ, to show the anwser: nie wiem / わからない \n')
