@@ -22,13 +22,15 @@ def clear_lines(n):
 kanji, reading, meaning = np.loadtxt(plik, dtype=str, delimiter=delim, unpack=True)
 
 
-print('To exit: exit / 出る \n')
+print('To exit: exit / 出る, to get each word once: all / 全部 \n')
 
 words = {'kanji':np.strings.strip(kanji), 'hiragana':np.strings.strip(reading), 'tłumaczenie':np.strings.strip(meaning)}
 skroty = {'k': 'kanji', 'h':'hiragana', 't':'tłumaczenie'}
 words_num = len(kanji)
+words_total = len(kanji)
 tryb = None
-
+countdown = False
+licznik = ''
 
 print(f"Wybierz tryb: {', '.join(words.keys())} ({', '.join(skroty.keys())})\n")
 
@@ -47,16 +49,21 @@ user_input = tryb
 if tryb in skroty.keys(): tryb = skroty[tryb]
 
 
-while user_input != 'exit' and user_input != '出る':
+while user_input != 'exit' and user_input != '出る' and words_num != 0:
 
     i = np.random.randint(words_num)
 
     clear_lines(2)
 
-    print(words[tryb][i])
+    print(words[tryb][i], licznik)
 
 
     user_input = input().strip()
+
+    if user_input == 'all' or user_input == '全部':
+        countdown = True
+        licznik = '\t' + '0 / ' + str(words_total)
+
 
     while user_input in words.keys() or user_input in skroty.keys():
 
@@ -65,15 +72,33 @@ while user_input != 'exit' and user_input != '出る':
         if user_input != tryb:
 
             clear_lines(2)
-            print(words[tryb][i], f' ({words[user_input][i].strip()})')
+            print(words[tryb][i], f' ({words[user_input][i].strip()})', licznik)
 
             user_input = input().strip()
 
         else:
 
             clear_lines(2)
-            print(words[tryb][i])
+            print(words[tryb][i], licznik)
 
             user_input = input().strip()
+
+
+        if user_input == 'all' or user_input == '全部':
+            countdown = True
+            licznik = '\t' + '0 / ' + str(words_total)
+
+
+    if countdown:
+        for key in words.keys():
+            words[key] = np.delete(words[key], i)
+
+        words_num -= 1
+
+        licznik = '\t' + str(words_total - words_num) + ' / ' + str(words_total)
+
+
+if words_num == 0:
+    print('終わった!')
 
 
