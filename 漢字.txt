@@ -184,7 +184,7 @@
 計画 - けいかく - plan, project, schedule
 計画を立てる - けいかくをたてる - to make plans
 満月 - まんげつ - full moon
-半月 - はんげつ - half-moon
+半月 - はんげつ - half moon
 三日月 - みかづき - crescent moon
 月末 - げつまつ - koniec miesiąca
 月始め - つきはじめ - początek miesiąca
@@ -272,7 +272,7 @@
 洋食 - ようしょく - zachodnie jedzenie
 忘年会 - ぼうねんかい - końcoworoczne spotkanie
 飲み会 - のみかい - impreza
-パーティー - formalna impreza, funkcja
+パーティー - パーティー - formalna impreza, funkcja
 乗り物 - のりもの - środek transportu
 把握する - はあくする - zrozumieć, pojmować
 意訳 - いやく - znaczenie (tłumaczenie nie dosłowne)
