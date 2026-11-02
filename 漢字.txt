@@ -178,3 +178,182 @@
 力強い - ちからづよい - powerful, strong
 力持ち - ちからもち - muscleman, stron man
 力仕事 - ちからしごと - physical work
+問題用紙 - もんだいようし - question sheet
+受験番号 - じゅけんばんごう - examination number
+写す - うつす - to copy, to duplicate, to reproduce
+計画 - けいかく - plan, project, schedule
+計画を立てる - けいかくをたてる - to make plans
+満月 - まんげつ - full moon
+半月 - はんげつ - half-moon
+三日月 - みかづき - crescent moon
+月末 - げつまつ - koniec miesiąca
+月始め - つきはじめ - początek miesiąca
+今月 - こんげつ - ten miesiąc
+来月 - らいげつ - przyszły miesiąc
+先月 - せんげつ - zeszły miesiąc
+毎月 - まいつき - co miesiąc
+月々 - つきづき - co miesiąc
+月給 - げっきゅう - miesięczna pensja
+月収 - げっしゅう - miesięczny dochód
+月謝 - げっしゃ - miesięczna opłata za lekcje / czesne
+月額 - げつがく - miesięczna opłata / kwota
+月が綺麗ですね - つきがきれいですね - kocham cię
+火事 - かじ - pożar
+火災 - かさい - pożar
+火山 - かざん - wulkan
+火葬 - かそう - kremacja
+点火 - てんか - zapalenie / odpalenie
+着火 - ちゃっか - zapłon / zapalenie się
+着火マン - チャッカマン - zapalarka
+火力を強める/弱める - かりょくをつよめる/よわめる - moc cieplna / energia cieplna
+火がつく - ひがつく - zapalić się / rozgorzeć
+火が消える - ひがきえる - zgasnąć
+火をつける - ひをつける - zapalić ogień / rozpalić ogień
+火を消す - ひをけす - zgasić ogień
+消火 - しょうか - gaszenie pożaru
+消火器 - しょうかき - gaśnica
+放火 - ほうか - podpalenie
+放火魔 - ほうかま - podpalacz
+火の車 - ひのくるま - być w trudnej sytuacji finansowej
+火の海 - ひのうみ - morze ognia
+火事場の馬鹿力です/で - かじばのばかぢからです/で - nadludzka siła w sytuacji zagrożenia
+火に油を注ぐ - ひにあうぶらをそそぐ - dolewać oliwy do ognia
+火のないところに煙は立たぬ - ひのないところにけむりはたたぬ - nie ma dymu bez ognia
+炎 - ほのお - płomienie
+炎があがる - ほのおがあがる - płomienie buchają / płomienie unoszą się / płomienie się pojawiają
+水道 - すいどう - wodociąg / kran
+水道水 - すいどうすい - kranówka
+水道屋さん - すいどうやさん - hydraulik
+飲み水 - のみみず - woda pitna (mówione)
+飲料水 - いんりょうすい - woda pitna (pisane)
+炭酸水 - たんさんすい - woda gazowana
+水割り - みずわり - alkohol z wodą
+水出し - みずだし - parzenie na zimno (cold brew)
+水っぱい - みずっぱい - wodnisty, rozcieńczony
+水着 - みずぎ - strój kąpielowy
+水泳 - すいえい - pływanie
+水中 - すいちゅう - pod wodą / podwodny
+水中メガネ/ゴーグル - すいちゅうメガネ/ゴーグル - okulary pływackie
+水圧 - すいあつ - ciśnienie wody
+水温 - すいおん - temperatura wody
+排水 - はいすい - odprowadzanie wody / odpływ
+排水口 - はいすいこう - odpływ, otwór odpływowy
+断水 - だんすい - przerwa w dostawie wody
+水不足 - みずぶそく - niedobór wody
+洪水 - こうずい - powódź
+水洗い - みずあらい - mycie wodą / płukanie wodą
+水風呂 - みずぶろ - zimna kąpiel, kąpiel w zimnej wodzie
+水平線 - すいへいせん - horyzont
+炭水化物 - たんすいかぶつ - węglowodany
+水族館 - すいぞくかん - akwarium
+水臭い - みずくさい - zdystansowany, nieszczery, zachowujący się jak obcy
+水の泡 - みずのあわ - na marne, wszystko poszło na marne
+水色 - みずいろ - jasnoniebieski, błekitny
+水虫 - みずむし - grzybica stóp
+水と油 - みずとあぶら - jak woda i olej, zupełnie do siebie nie pasujący
+水に流す - みずにながす - puścić w niepamięć, zapomnieć o urazie
+発祥 - はっしょう - place of origin (for things, not people)
+建築 - けんちく - architektura
+訳す - やくす - przetłumaczyć
+単に - たんに - po prostu
+冷める - さめる - wystygnąć
+手話 - しゅわ - język migowy
+中華料理 - ちゅうかりょうり - kuchnia chińska w stylu japońskim
+中国料理 - ちゅうごくりょうり - oryignalna kuchnia chińska
+料理学校 - りょうりがっこう - szkoła gastronomiczna
+学士 - がくし - licencjat
+修士 - しゅうし - magisterka
+博士 - はかせ - doktor
+母語 - ぼご - mother tongue
+脱線する - だっせんする - zboczyć (z tematu)
+単品 - たんぴん - pojedynczy produkt
+和風 - わふう - japoński styl
+洋風 - ようふう - zachodni styl
+洋食 - ようしょく - zachodnie jedzenie
+忘年会 - ぼうねんかい - końcoworoczne spotkanie
+飲み会 - のみかい - impreza
+パーティー - formalna impreza, funkcja
+乗り物 - のりもの - środek transportu
+把握する - はあくする - zrozumieć, pojmować
+意訳 - いやく - znaczenie (tłumaczenie nie dosłowne)
+家事 - かじ - domestic chores
+用事 - ようじ - rzeczy do zrobienia
+土葬 - どそう - pochówek w ziemi
+噂 - うわさ - plotka
+比喩 - ひゆ - metafora
+悪戦苦闘 - あくせんくとう - coś bardzo ciężkiego
+有効活用 - ゆうこうかつよう - effective use, making effective use of
+活用 - かつよう - użycie, zastosowanie
+活かす - いかす - to make the best of
+恥 - はじ - wstyd
+一生 - いっしょう - na całe życie
+記念日 - きねんび - rocznica
+順で - じゅんで - w kolejności
+お祝い - おいわい - celebration
+いまいち - いまいち - jako tako, nie do końca
+心理学 - しんりがく - psychologia
+紅葉 - こうよう - kolory jesieni
+深く - ふかく - głęboko
+発見する - はっけんする - to discover
+探索する - たんさくする - eksplorować
+参加する - さんかする - brać udział
+整頓 - せいとん - sprzątanie, porządkowanie
+お喋りする - おしゃべりする - gadać
+本日 - ほんじつ - today
+一日中 - いちにちじゅう - cały dzień
+老舗 - しにせ - historyczny sklep, lokal
+バラ - バラ - róża
+残す - のこす - zostawić
+賢い - かしこい - inteligentny, mądry
+タメ語 - タメぐち - język codzienny
+穏やか - おだやか - spokojny
+画面 - がめん - ekran
+念願 - ねんがん - upragniony, długo wyczekiwany, nareszcie się spełniło
+遂に - ついに - nareszcie
+共感する - きょうかんする - empatyzować się
+涼しい - すずしい - chłodny
+乾燥 - かんそう - suchy, suchość
+じめじめ - じめじめ - wilgotno
+下旬 - げじゅん - koniec miesiąca
+中旬 - ちゅうじゅん - środek miesiąca
+上旬 - じょうじゅん - początek miesiąca
+改札 - かいさつ - bramka
+鉄道 - てつどう - railroad, railway, rail transport
+路線 - ろせん - schemat komunikacji, mapa rozkładu
+ホーム - ホーム - peron
+複雑 - ふくざつ - skomplikowany
+乗り換え - のりかえ - przesiadka
+ややこしい - ややこしい - skomplikowany
+単語 - たんご - pojedyncze słowo
+空く - すく - pustoszeć
+観光地 - かんこうち - tourist attraction
+ゆったり - ゆったり - comfortably
+使い分ける - つかいわける - to use properly
+ゴミゴミ - ゴミゴミ - stłoczone (i brudne)
+有料 - ゆうりょう - płatne
+気軽 - きがる - carefree
+出て来る - でてくる - pojawić się
+墓 - はか - grób
+墓地 - ぼち - cmentarz
+例外 - れいがい - wyjątek
+臭い - くさい - śmierdzący
+めんどくさい - めんどくさい - uciążliwy, denerwujący
+胡散臭い/嘘くさい - うさんくさい/うそくさい - podejrzany
+古臭い - ふるくさい - przestrzały
+邪魔くさい - じゃまくさい - przeszkadzający
+カビ臭い - カビくさい - pachnący stęchlizną
+バッチリ - バッチリ - idealnie, kompletnie
+印象 - いんしょう - impression
+直行便 - ちょっこうびん - direct flight
+バラバラ - バラバラ - podzielony, rozproszony, rozsypany
+バラ売り - バラうり - sprzedaż osobno
+一年後 - いちねんご - po roku
+同調圧力 - どうちょうあつりょく - pressure to conform
+旧市街 - きゅうしがい - stare miasto
+旧姓 - きゅうせい - nazwisko panieńskie
+校舎 - こうしゃ - budynek szkolny
+飲食店 - いんしょくてん - jedzenie poza domem
+個人主義 - こじんしゅぎ - indywidualizm
+ペラペラ - ペラペラ - fluently
+完全 - かんぜん - perfectly, completely
+割引 - わりびき - zniżka
